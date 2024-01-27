@@ -1,0 +1,8 @@
+*.lock
+**__pycache__/
+jars/hadoop/
+jars/spark/
+jars/java/
+**/ITENS_VENDAS/
+**.part-*
+**000000000000000000**
